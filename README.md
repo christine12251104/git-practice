@@ -1,3 +1,18 @@
-<img width="1917" height="1142" alt="スクリーンショット 2026-09-01 120007" src="https://github.com/user-attachments/assets/954f6e12-0f01-4730-8437-b1c93d04fe41" />
+## 技術スタック一覧
 
-# タイトルを変更
+| カテゴリ | 技術名 | バージョン |
+| :--- | :--- | ---: |
+| フロントエンド | HTML | - |
+| フロントエンド | CSS | - |
+| フロントエンド | JavaScript | - |
+| 開発環境 | Visual Studio Code | - |
+| バージョン管理 | Git | - |
+| リポジトリ管理 | GitHub | - |
+
+## 環境変数一覧
+
+| 変数名 | 説明 | デフォルト値 | 必須 |
+| :--- | :--- | :--- | :---: |
+| API_URL | APIの接続先 | http://localhost:3000 | ○ |
+| APP_ENV | 実行環境 | development | ○ |
+| DEBUG | デバッグモード | false | × |
